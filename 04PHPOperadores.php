@@ -89,4 +89,10 @@ echo $n1-- . " " ."n1++". " ". "Decremento "; // Decremento de 1
 echo "<br>";
 echo  $n1 . " " ."Decremento é feito "; 
 echo "<br>";
+
+## Operador ternario 
+$a = 3;
+$b = 2;
+echo "<br>";
+echo ($a == $b)?"Sao iguais":"Não são iguais"; // (Condição)?"caso verdadeiro":"caso falso" 
 ?>
